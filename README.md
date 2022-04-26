@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I am Anastasia 
+## A Software Developer
 
 <!--
 **AnastasiaLunina/AnastasiaLunina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
