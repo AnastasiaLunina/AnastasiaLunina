@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Anastasia.
-#### A Software Developer.
-<!-- ![octocat](https://user-images.githubusercontent.com/94207798/165857430-8c374d84-e56a-4a89-9966-edb03cb62c6a.png) -->
-<img src='https://user-images.githubusercontent.com/94207798/165857430-8c374d84-e56a-4a89-9966-edb03cb62c6a.png' alt='github' height='80'>
+#### A Software Developer. <img src='https://user-images.githubusercontent.com/94207798/165857430-8c374d84-e56a-4a89-9966-edb03cb62c6a.png' alt='github' height='80'>
 - 📫 How to reach me: lunina.anastasiya@gmail.com 
 
 
