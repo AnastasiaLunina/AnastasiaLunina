@@ -3,9 +3,7 @@
 - 📫 How to reach me: lunina.anastasiya@gmail.com <br>
 - 💻 My website: https://anastasia-codes.netlify.app/ 
 <br>
-<br>
 <hr>
-<br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' target="_blank">](https://github.com/AnastasiaLunina) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/anastasia-lunina/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' target="_blank">](https://medium.com/@lunina.anastasiya)
 
