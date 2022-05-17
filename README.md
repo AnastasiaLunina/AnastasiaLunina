@@ -5,6 +5,6 @@
 - 💻 <a href="https://anastasia-codes.netlify.app/" target="_blank">My website</a>
 <br>
 <hr>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' target="_blank">](https://github.com/AnastasiaLunina) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/anastasia-lunina/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' target="_blank">](https://medium.com/@lunina.anastasiya)
+<a href="https://github.com/AnastasiaLunina" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' target="_blank"> </a> <a href="https://www.linkedin.com/in/anastasia-lunina/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' target="_blank"></a> <a href="https://medium.com/@lunina.anastasiya" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' target="_blank"></a>
 
 
