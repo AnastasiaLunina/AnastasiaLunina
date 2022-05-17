@@ -1,6 +1,7 @@
-### Hi there 👋, I am Anastasia. A Software Engineer.
+<h3>Hi there 👋, I am Anastasia. A Software Engineer.</h3>
 <img src='https://user-images.githubusercontent.com/94207798/165857430-8c374d84-e56a-4a89-9966-edb03cb62c6a.png' alt='github' height='80'>  
-- 📫 How to reach me: lunina.anastasiya@gmail.com 
+<h4>How to reach me:</h4> <br>
+- 📫 lunina.anastasiya@gmail.com 
 <br>
 - 💻 <a href="https://anastasia-codes.netlify.app/" target="_blank">My website</a>
 <br>
