@@ -1,6 +1,6 @@
 <h3>Hi there 👋, I am Anastasia. A Software Engineer.</h3>
 <img src='https://user-images.githubusercontent.com/94207798/165857430-8c374d84-e56a-4a89-9966-edb03cb62c6a.png' alt='github' height='80'>  
-<h4>How to reach me:</h4> 
+<h4>Contact me:</h4> 
 - 📫 lunina.anastasiya@gmail.com 
 <br>
 <hr>
@@ -21,5 +21,5 @@
 <hr>
 <a href="https://www.linkedin.com/in/anastasia-lunina/" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' target="_blank"></a> 
 <a href="https://medium.com/@lunina.anastasiya" target="_blank"><img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' target="_blank"></a>
-<a href="https://anastasia-codes.netlify.app/" target="_blank"><img src='https://badgen.net/badge/my/website/pink' alt='mywebsite' target="_blank" height="27px"></a>
+<a href="https://anastasia-codes.netlify.app/" target="_blank"><img src='https://badgen.net/badge/my/portfolio/pink' alt='mywebsite' target="_blank" height="27px"></a>
 
